@@ -6,7 +6,7 @@
 
 A full-stack application that helps you manage your to-do list, generate AI-powered summaries of pending tasks, and send these summaries to your team's Slack channel.
 
-🔗 Live Demo: https://todo-summary-assistant-2.onrender.com/
+🔗 Live Demo: [todo-summary-assistant](https://todo-summary-assistant-2.onrender.com/)
 
 
 ## ✨ Features
