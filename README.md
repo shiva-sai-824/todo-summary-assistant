@@ -6,9 +6,7 @@
 
 A full-stack application that helps you manage your to-do list, generate AI-powered summaries of pending tasks, and send these summaries to your team's Slack channel.
 
-<p align="center">
-  <img src="/api/placeholder/800/300" alt="Todo Summary Assistant Demo" />
-</p>
+
 
 ## ✨ Features
 
